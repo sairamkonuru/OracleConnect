@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.ComponentModel.DataAnnotations;
 
-namespace EF6_Oracle12c_CF
+namespace OracleConnect
 {
     class TestDb
     {
